@@ -68,7 +68,4 @@ conversational agents, content generation, or creative writing aids. It's a good
 models in Python using the Hugging Face transformers library.
 
 # OUTPUT:
-Giving Input:
-
-
-Output:
+![Image](https://github.com/user-attachments/assets/cea6467f-8a6b-4e63-a04c-752d81c6f42a)
